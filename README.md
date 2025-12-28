@@ -50,7 +50,7 @@ O foco do projeto é reduzir indecisão e fadiga mental, oferecendo uma experiê
 
 📲 Baixe e teste o aplicativo Android:
 
-👉 **[Download do APK](https://expo.dev/accounts/wbl/projects/decide-por-mim/builds/362c5aea-d63e-40a6-933e-408a8de221a6)**
+👉 **[Download do APK](https://bit.ly/decide-por-mim-app)**
 
 ---
 
