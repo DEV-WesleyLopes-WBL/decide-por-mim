@@ -36,13 +36,13 @@ O foco do projeto é reduzir indecisão e fadiga mental, oferecendo uma experiê
 ## 📸 Capturas de Tela
 
 ### Splash Screen
-![Splash](screenshots/splash.png)
+![Splash](screenshots/icon.png)
 
 ### Tela Principal
-![Home](screenshots/home.png)
+![Home](screenshots/principal.png)
 
 ### Resposta Gerada
-![Decisão](screenshots/decisao.png)
+![Decisão](screenshots/decisão.png)
 
 ---
 
@@ -50,7 +50,7 @@ O foco do projeto é reduzir indecisão e fadiga mental, oferecendo uma experiê
 
 📲 Baixe e teste o aplicativo Android:
 
-👉 **[Download do APK](COLE_AQUI_O_LINK_DO_APK)**
+👉 **[Download do APK](https://expo.dev/accounts/wbl/projects/decide-por-mim/builds/362c5aea-d63e-40a6-933e-408a8de221a6)**
 
 ---
 
@@ -64,5 +64,5 @@ O foco do projeto é reduzir indecisão e fadiga mental, oferecendo uma experiê
 
 ## 👨‍💻 Autor
 
-**Wesley Bernardino**  
+**Wesley Bernardino Lopes**  
 Projeto desenvolvido do zero para fins de aprendizado, prática profissional e portfólio.
