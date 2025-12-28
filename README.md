@@ -65,4 +65,3 @@ O foco do projeto é reduzir indecisão e fadiga mental, oferecendo uma experiê
 ## 👨‍💻 Autor
 
 **Wesley Bernardino Lopes**  
-Projeto desenvolvido do zero para fins de aprendizado, prática profissional e portfólio.
