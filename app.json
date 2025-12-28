@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Decide Por Mim",
+    "slug": "decide-por-mim",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.decidepormim"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d087c0c8-d334-4303-b530-f03491d0a5f1"
+      }
+    }
+  }
+}
